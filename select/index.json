@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "どした？",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2026-03-20T03:56:38.411446Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "どした?",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/pl_01_どした_DUSTCELL.txt"
+    }
+  ]
+}
